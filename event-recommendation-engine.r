@@ -1,3 +1,5 @@
+# kaggle URL - https://www.kaggle.com/c/event-recommendation-engine-challenge/discussion/3894
+# source- http://datalab.lu/blog/2013/02/21/kaggle-event-recommentation-engine/
 require(plyr)
 require(randomForest)
 #require(geosphere)
